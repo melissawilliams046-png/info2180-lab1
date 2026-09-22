@@ -2,3 +2,11 @@
 
 This is lab 1 for Melissa Williams
 
+
+
+\##Branching
+
+
+
+Branching allows you to isolate development work without affecting other branches on the repository. Each repository has one default branch (usually called master), and can have multiple other branches.
+
